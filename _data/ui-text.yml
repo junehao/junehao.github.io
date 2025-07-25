@@ -328,7 +328,7 @@ zh-HK: &DEFAULT_ZH_HK
   comments_label             : "發表評論"
   comments_title             : "評論"
   more_label                 : "了解更多"
-  related_label              : "你可能感興趣的"
+  related_label              : "你可能感興趣"
   follow_label               : "關注："
   feed_label                 : "打賞"
   powered_by                 : "技術支持："
@@ -338,15 +338,15 @@ zh-HK: &DEFAULT_ZH_HK
   undefined_wpm              : "_config.yml中未定義words_per_minute參數"
   comment_form_info          : "您的電子郵件地址不會被公開。（必填項已標註）"
   comment_form_comment_label : "評論"
-  comment_form_md_info       : "支持Markdown格式"
+  comment_form_md_info       : "支援Markdown格式"
   comment_form_name_label    : "姓名"
   comment_form_email_label   : "電子郵件地址"
-  comment_form_website_label : "網站（可選）"
+  comment_form_website_label : "網站（選填）"
   comment_btn_submit         : "提交評論"
   comment_btn_submitted      : "已提交"
   comment_success_msg        : "感謝您的評論！審核通過後會顯示在網站上。"
-  comment_error_msg          : "抱歉，提交時出錯。請確保所有必填項已完成，並重試。"
-  loading_label              : "加載中..."
+  comment_error_msg          : "抱歉，提交時出錯。請確保所有必填項已完成並重試。"
+  loading_label              : "載入中..."
 zh-TW:
   <<: *DEFAULT_ZH_HK
 
