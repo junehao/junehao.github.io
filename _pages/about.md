@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "GIAAIL"
+title: "About June-Hao Hou"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+June-Hao Hou is...
 
 GIAAIL stands for the Architectural Informatics Laboratory at the Graduate Institute of Architecture, National Yang Ming Chiao Tung University.
 
